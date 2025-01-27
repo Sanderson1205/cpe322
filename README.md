@@ -26,6 +26,7 @@
 `code`
 ---
 [LinkedIn](https://www.linkedin.com/in/sean-anderson-403ab4199/)
+---
 ![Alexander Graham Bell](https://github.com/Sanderson1205/cpe322/blob/c6fa6c53ec95700cb22a1e5157c829f5d965cbcc/Alexander%20Graham%20Bell.jpg)
 > When one door closes, another opens; but we often look so long and so regretfully upon closed door that we do not see the one which has opened for us.
 *-Alexander Graham Bell*
