@@ -1,4 +1,4 @@
-# Assignment 0
+# CPE 322 (Design 6) Assignment 0
 ## Authored by Sean Anderson
 ### About Me
 **Major** *Computer Engineering*
