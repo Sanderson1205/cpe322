@@ -8,15 +8,17 @@
 **Relevant Coursework**
 - Microprocessor Systems
 - Image Processing and Coding
+- Information Systems
 - Computational Data Structures and Algorithms
+- Linear Algebra
 ---
 **Design Projects**
 1. Speaker Amplifier
 2. Environmental Condition Detection System
 ---
 **Coding Projects**
-1. User Music Preference and Recommendation System
-2. 
+1. User Music Preference and Recommendation System (Python)
+2. Choose Your Own Adventure Game (C++)
 ---
 **Programming Languages Used**
 - C++
