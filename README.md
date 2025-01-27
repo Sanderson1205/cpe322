@@ -25,7 +25,7 @@
 - ARM v8
 - HTML
 
-`code`
+`cout << "Hello World!" << endl;`
 ---
 [LinkedIn](https://www.linkedin.com/in/sean-anderson-403ab4199/)
 ---
