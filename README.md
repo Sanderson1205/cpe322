@@ -13,8 +13,8 @@
 - Linear Algebra
 ---
 **Design Projects**
-1. Speaker Amplifier
-2. Environmental Condition Detection System
+1. Amplifier and Crossover Filter Network
+2. Indoor Environmental Condition Monitoring System
 ---
 **Coding Projects**
 1. User Music Preference and Recommendation System (Python)
