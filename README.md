@@ -2,7 +2,9 @@
 ## Authored by Sean Anderson
 ### About Me
 **Major** *Computer Engineering*
+
 **Year** *3rd*
+
 **Relevant Coursework**
 - Microprocessor Systems
 - Image Processing and Coding
