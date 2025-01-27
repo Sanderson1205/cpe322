@@ -25,7 +25,9 @@
 - ARM v8
 - HTML
 
-`cout << "Hello World!" << endl;`
+`cout << "Hello World!";
+print("Hello World!)
+System.out.print("Hello World);`
 ---
 [LinkedIn](https://www.linkedin.com/in/sean-anderson-403ab4199/)
 ---
