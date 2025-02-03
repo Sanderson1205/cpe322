@@ -3,3 +3,5 @@
 ## Team Members: Sean Anderson, Deep Shah, Connor Hsuan, Gianna Adamo
 
 [Team Website](https://sites.google.com/stevens.edu/cpe-322-engineering-design-vi/home)
+
+I am requesting a Raspberry Pi
