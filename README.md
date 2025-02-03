@@ -1,3 +1,4 @@
+**I'm requesting a Raspberry PI**
 # CPE 322 (Design 6) Assignment 0
 ## Authored by Sean Anderson
 ### About Me
