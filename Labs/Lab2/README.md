@@ -41,6 +41,54 @@ Document results to GitHub repository.
 ## pwd
 ![terminal view of pwd](Lab2Images/pwd.png)
 
+## git clone https://github.com/kevinwlu/iot.git, cd iot, ls, and cd
+![terminal view of git clone https://github.com/kevinwlu/iot.git, cd iot, ls, and cd](Lab2Images/gitclone_cd_ls.png)
+
+## df
+![terminal view of df](Lab2Images/df.png)
+
+## mkdir demo, cd demo, and nano file
+![terminal view of mkdir demo, cd demo, and nano file](Lab2Images/mkdir_nano.png)
+
+## inside of file after nano file
+![inside of file after nano file](Lab2Images/nanoFileResult.png)
+
+## cat file
+![terminal view of cat file](Lab2Images/cat.png)
+
+## cp file file1
+![terminal view of cp file file1](Lab2Images/cp.png)
+
+## mv file file2
+![terminal view of mv file file2](Lab2Images/mv.png)
+
+## rm file2
+![terminal view of rm file2](Lab2Images/rm.png)
+
+## Before clear
+![terminal view of Before clear](Lab2Images/clearBeforeEnter.png)
+
+## After clear
+![terminal view of After clear](Lab2Images/clearAfterEnter.png)
+
+## man uname
+![terminal view of man uname](Lab2Images/manUname.png)
+
+## result of man uname
+![terminal view of man uname result](Lab2Images/manUnameOutput.png)
+
+## uname -a
+![terminal view of uname -a](Lab2Images/uname-a.png)
+
+## ifconfig
+![terminal view of ifconfig](Lab2Images/ifconfig.png)
+
+## ping localhost
+![terminal view of ping localhost](Lab2Images/pinglocalhost.png)
+
+## netstat
+![terminal view of netstat](Lab2Images/netstat.png)
+
 ---
 
 Author: Sean Anderson </br>
