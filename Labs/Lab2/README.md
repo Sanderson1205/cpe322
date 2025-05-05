@@ -87,7 +87,9 @@ Document results to GitHub repository.
 ![terminal view of ping localhost](Lab2Images/pinglocalhost.png)
 
 ## netstat
-![terminal view of netstat](Lab2Images/netstat.png)
+![terminal view of netstat1](Lab2Images/netstatPic1.png)
+![terminal view of netstat2](Lab2Images/netstatPic2.png)
+![terminal view of netstat3](Lab2Images/netstatPic3.png)
 
 ---
 
