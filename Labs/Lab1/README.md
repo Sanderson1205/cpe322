@@ -23,9 +23,5 @@ Document results on your GitHub repository.
 
 ---
 
-## Summary
-
-
----
 Author: Sean Anderson </br>
 I pledge my honor that I have abided by the Stevens Honor System.
