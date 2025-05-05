@@ -41,6 +41,21 @@ Document the results to your GitHub repository.
 ## python3 moon.py
 ![terminal view of python3 moon.py](Lab3Images/moon.png)
 
+## python3 coordiantes.py "Samuel C. Williams Library"
+![terminal view of python3 coordiantes.py "Samuel C. Williams Library"](Lab3Images/coordinates.png)
+
+## python3 address.py "40.74480675, -74.02532861159351"
+![terminal view of python3 address.py "40.74480675, -74.02532861159351"](Lab3Images/address.png)
+
+## python3 cpu.py
+![terminal view of python3 cpu.py](Lab3Images/cpu.png)
+
+## python3 battery.py
+![terminal view of python3 battery.py](Lab3Images/battery.png)
+
+## python3 documentstats.py document.txt
+![terminal view of python3 documentstats.py document.txt](Lab3Images/documentstats.png)
+
 ---
 Author: Sean Anderson </br>
 I pledge my honor that I have abided by the Stevens Honor System.
