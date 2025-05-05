@@ -35,6 +35,12 @@ Document results to GitHub repository.
 ![terminal view of env1](Lab2Images/envPic1.png)
 ![terminal view of env2](Lab2Images/envPic2.png)
 
+## ps
+![terminal view of ps](Lab2Images/ps.png)
+
+## pwd
+![terminal view of pwd](Lab2Images/pwd.png)
+
 ---
 
 Author: Sean Anderson </br>
