@@ -21,7 +21,7 @@ Document the results to your GitHub repository.
 ---
 
 ## cd ~/iot and cd *3
-![terminal view of hostname](Lab3Images/cdIotLesson3.png)
+![terminal view of cd ~/iot and cd *3](Lab3Images/cdIotL3.png)
 
 ---
 Author: Sean Anderson </br>
