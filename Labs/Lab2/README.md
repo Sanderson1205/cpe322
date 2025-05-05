@@ -33,6 +33,7 @@ Document results to GitHub repository.
 
 ## env
 ![terminal view of env1](Lab2Images/envPic1.png)
+![terminal view of env2](Lab2Images/envPic2.png)
 
 ---
 
