@@ -10,7 +10,7 @@ Document results on your GitHub repository.
 
 ## Half Adder
 **Half Adder Code:**
-![Half Adder Code](https://github.com/Sanderson1205/Labs/Lab1/Lab1Images/HalfAdderCode.png)
+![Half Adder Code](Lab1Images/HalfAdderCode.png)
 **Half Adder Result:**
 
 
