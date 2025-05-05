@@ -28,7 +28,8 @@ Document results to GitHub repository.
 
 ---
 
-
+## hostname
+![terminal view of hostname](Lab2Images/hostname.png)
 
 ---
 
