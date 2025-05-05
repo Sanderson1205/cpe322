@@ -31,6 +31,9 @@ Document results to GitHub repository.
 ## hostname
 ![terminal view of hostname](Lab2Images/hostname.png)
 
+## env
+![terminal view of env1](Lab2Images/envPic1.png)
+
 ---
 
 Author: Sean Anderson </br>
