@@ -20,6 +20,9 @@ Document the results to your GitHub repository.
 
 ---
 
+## cd ~/iot and cd *3
+![terminal view of hostname](Lab3Images/cdIotLesson3.png)
+
 ---
 Author: Sean Anderson </br>
 I pledge my honor that I have abided by the Stevens Honor System.
