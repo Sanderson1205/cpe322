@@ -23,18 +23,23 @@ After running hash_value.py twice, it could be seen that the hash value of 1, 1.
 ## Running snakecoin.py
 ![terminal view of running snakecoin.py](Lab10Images/snakecoin.png)
 
-## Result of running snakecoin.py
-![webpage view of running snakecoin.py](Lab10Images/snakecoinResult.png)
-
 ## Running snakecoin-server-full-code.py on Terminal 1
 ![terminal view of running snakecoin-server-full-code.py](Lab10Images/snakecoin-server-full-code.png)
+
+## Result of running snakecoin-server-full-code.py
+![webpage view of running snakecoin-server-full-code.py](Lab10Images/snakecoinResult.png)
 
 ## Mining a new block on Terminal 2
 ![terminal view of mining a new block on Terminal 2](Lab10Images/mining.png)
 
+## Result of mining a new block
+![webpage view of mining a new block](Lab10Images/miningResult.png)
+
 ## Cloning Python blockchain app
+![terminal view of cloning python blockchain app](Lab10Images/cloneblockchainapp.png)
 
 ## Uncommented last line of node_server.py
+![nano view of uncommenting last line of node_server.py](Lab10Images/uncommentedline.png)
 
 ## Running node_server.py on Terminal 1
 
