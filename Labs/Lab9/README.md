@@ -14,9 +14,9 @@ Review lesson 9 in the GitHub repository. Install pyang and PlantUML. Copy ~/iot
 ![terminal view of cp ~/iot/lesson9/intrusiondetection.yang to ~/demo3](Lab9Images/cpintrusiondetectionyang3.png)
 
 ## Running pyang to generate intrusiondetection.yin
-![terminal view of cp ~/iot/lesson9/intrusiondetection.yin to ~/demo1](Lab9Images/cpintrusiondetectionyin1.png)
-![terminal view of cp ~/iot/lesson9/intrusiondetection.yin to ~/demo2](Lab9Images/cpintrusiondetectionyin2.png)
-![terminal view of cp ~/iot/lesson9/intrusiondetection.yin to ~/demo3](Lab9Images/cpintrusiondetectionyin3.png)
+![terminal view of cp ~/iot/lesson9/intrusiondetection.yin to ~/demo1](Lab9Images/pyangintrusiondetectionyin1.png)
+![terminal view of cp ~/iot/lesson9/intrusiondetection.yin to ~/demo2](Lab9Images/pyangintrusiondetectionyin2.png)
+![terminal view of cp ~/iot/lesson9/intrusiondetection.yin to ~/demo3](Lab9Images/pyangintrusiondetectionyin3.png)
 
 ## Running pyang to generate intrusiondetection.uml
 ![terminal view of Running pyang to generate intrusiondetection.uml](Lab9Images/pyangintrusiondetectionuml.png)
