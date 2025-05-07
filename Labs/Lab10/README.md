@@ -17,6 +17,7 @@ Document results to your GitHub repository.
 
 ## Running hash_value.py twice
 ![terminal view of python3 hash_value.py twice](Lab10Images/python3hash_value.png)
+
 After running hash_value.py twice, it could be seen that the hash value of 1, 1.0, and 3.14 remained the same but the hash value of Python, tuple of vowels, and object of person changed.
 
 ## Running snakecoin.py
