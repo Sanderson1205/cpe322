@@ -19,6 +19,6 @@
 * Lab 9
   * Completed
 * Lab 10
-  * Started but not completed
+  * Completed
 * Lab 11
   * Not started
