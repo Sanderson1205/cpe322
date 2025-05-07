@@ -42,8 +42,19 @@ After running hash_value.py twice, it could be seen that the hash value of 1, 1.
 ![nano view of uncommenting last line of node_server.py](Lab10Images/uncommentedline.png)
 
 ## Running node_server.py on Terminal 1
+![terminal view of running node_server.py](Lab10Images/node_server.png)
 
+## Result of running node_server.py
+![webpage view of running node_server.py](Lab10Images/node_serverResult.png)
 
+## Running run_app.py on Terminal 2
+![terminal view of running run_app.py](Lab10Images/run_app.png)
+
+## Result of running run_app.py and requesting mine
+![webpage view of running run_app.py](Lab10Images/run_appResult.png)
+
+## Resync result
+![result of resync](Lab10Images/resync.png)
 
 ---
 Author: Sean Anderson </br>
